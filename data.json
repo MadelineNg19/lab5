@@ -29,6 +29,11 @@
 			"name": "Allen Newell",
 			"description": "Really into psychology",
 			"imageURL": "http://uploads.edubilla.com/awards-winners/92/b4/allen-newell.jpg"
+		},
+		{ 	"name": "Fake Friend",
+			"description": "All my friends are imaginary",
+			"imageURl":"http://lorempixel.com/500/500/people"
+
 		}
 	]
 }
